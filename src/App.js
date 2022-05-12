@@ -44,6 +44,5 @@ const generateRandom = () => {
   Math.floor(Math.random() * anecdotes.length);
 }
 
-// ReactDOM.render(<App anecdotes={anecdotes} />, document.getElementById('root'));
 
 export default App
